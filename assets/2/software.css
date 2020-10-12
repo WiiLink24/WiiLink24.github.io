@@ -1,0 +1,22 @@
+#softGallery{
+	padding:20px 31px 0 49px;
+}
+.software_pair{
+	width:760px;
+	height:118px;
+	margin-bottom:15px;
+	clear:both;
+}
+.software_pair div img{
+	width:350px;
+	height:118px;
+	border:0px;
+}
+.software_left, .software_right{
+	width:350px;
+	height:118px;
+	float:left;
+}
+.software_right{
+	float:right;
+}

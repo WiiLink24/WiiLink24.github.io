@@ -1,0 +1,126 @@
+a img{
+	border:0px;
+}
+.title_bar{
+	height:34px;
+	/*background:url(../images/common/dotted_line.gif) repeat-x bottom;*/
+}
+.more_about_wii{
+	float:right;
+}
+.content{
+	padding-top:40px;
+	width:800px;
+	text-align:left;
+}
+.software_hero{
+        width: 800px;
+        height: 300px;
+	padding:5px 0px 0px 0px;
+	background:right top no-repeat;
+}
+
+.broken {
+        width: 800px;
+        background-color: ;
+        margin: 0 auto;
+        padding: 0px;
+
+}
+
+
+.iwata_asks_container {
+
+        width: 800px;
+        margin: 0px;
+        padding: 0px;
+        float: left;
+        
+
+}
+
+.software_info{
+	width:260px;
+	font-size:10px;
+	line-height:14px;
+	padding: 110px 0px 0px 20px;
+	background:center top no-repeat;
+	color:#8C8C8C;
+}
+.release_date{
+	font-size: 12px;
+	font-weight: bold;
+	color: #43beed;
+}
+.other_info{
+	display:block;
+	font-weight:bold;
+}
+.release_date:first-word, .other_info:first-word{
+	font-weight:normal;
+}
+.software_info p{
+	margin:0px 0px 10px 0px;
+}
+.esrbRating {
+	margin-top:10px;
+	width:100%;
+}
+.dotted_line{
+	font-size:1px;
+	height:1px;
+	padding:0px;
+	overflow:hidden;
+	background:url(../images/common/dotted_line.gif) repeat-x;
+	clear:both;
+}
+
+.content img {
+        padding: -200px 0px 0px 0px;
+        margin: 0px;
+
+}
+
+
+.subtitle{
+	display:block;
+	margin:35px 0px 10px 0px;
+	padding-left:15px;
+	background:url(../images/common/blue_brick.gif) repeat-y;
+	font-size:14px;
+	font-weight:bold;
+	color:#45c4ef;
+	clear:both;
+}
+.diag_box {
+	background:transparent url(../images/common/gray_lines.gif) repeat scroll 0%;
+	padding-top:20px;
+	padding-left:30px;
+        border: none;
+}
+.diag_box img.box_art{
+	margin-right:20px;
+}
+.diag_box div img{
+	margin:0px 0px 5px 0px;
+	width:148px;
+	height:111px;
+}
+.diag_box .video{
+	width:150px;
+	text-align:center;
+	float:left;
+	margin-right:15px;
+	padding-bottom:15px;
+	background:no-repeat center bottom;
+	font-size: 10px;
+	color: #999999;
+	overflow:hidden;
+}
+
+.clear{
+	font-size:1px;
+	height:0px;
+	display:block;
+	clear:both;
+}
