@@ -31,4 +31,11 @@ Step 10: Done!<br>
 # Pointing your registar to the CNAME file you created in this repo.<br>
 Step 1: Follow this guide, but skip adding the CNAME file inside this repo since you have already done it while following the first guide in this README. Once you have acknowledged this, proceed to Step 2.<br>
 Step 2: Watch this guide and follow it, while maintaining what I said in Step 1. https://www.youtube.com/watch?v=mPGi1IHQxFM After you have done that, proceed to Step 3.<br>
-Step 3: Done!<br>
+Step 3: Go to the site you put into the CNAME file in the root of this repo, and see if it works.
+Step 4: If it works, proceed directly to Step 10. If not, proceed to Step 5.
+Step 5: Contact me on discord to try to work out the issue.
+Step 6: Be patient as we work it out.
+Step 7: Once we have worked it out, have fun in our discord.
+Step 8: Try to access the site you tried to access in Step 3. If it works, proceed to Step 9, if not, go back to Step 4.
+Step 9: Pat yourself on the back and go to Step 10.
+Step 10: Done!<br>
