@@ -1,2 +1,2 @@
 # wiilink24.github.io
-This hosts 6100m's CDN stuff.
+This is WiiLink24's official site!
