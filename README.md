@@ -1,2 +1,3 @@
 # wiilink24.github.io
-This is WiiLink24's official site!
+This is **no longer** WiiLink24's official site!
+We have migrated to Google Sites!
