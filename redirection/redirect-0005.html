@@ -1,0 +1,10 @@
+<html><head> <!-- Called on same line to reduce line usage -->
+<script>window.onload=noapi(undefined); //Admittingly, the same is done here, somehow miracoulsly JS allows THIS to work. Go figure!
+function noapi(undefined) {
+  var link = "https://wiilink24.github.io/pages/page-0005.html"; //Changed per copy, utilized in runtime as well.
+  window.location.href = link;  // Simulate a mouse click:
+  window.location.replace(link); // Simulate an HTTP redirect:
+  return undefined;
+}; console.log(undefined);
+</script> 
+ <!-- Also called on same line to reduce line usage --></head></html>
