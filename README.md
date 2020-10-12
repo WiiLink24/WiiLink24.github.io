@@ -22,7 +22,7 @@ Step 1: Download Notepad++<br>
 Step 2: Install Notepad++<br>
 Step 3: Clone this repo and save it to a directory you rerember.<br>
 Step 4: Go to the directory you created in Step 4, and go into the redirects folder inside the folder you created in Step 4.<br>
-Step 5: Make a copy of the file with the highest increment. For instance, if only redirect-0000.html exists, create a file named redirect-0001.html. If redirect-0030.html exists and it has files that number all the way back to 0000, create a file named redirect-0031.html. It goes from 0000-9999. I will soon make a tool to make this easier.<br>
+Step 5: Make a copy of the file with the highest increment. For instance, if only redirect-0000.html exists, create a file named redirect-0001.html. If redirect-0030.html exists and it has files that number all the way back to 0000, create a file named redirect-0031.html. It goes from 0000-9999. I will soon make a tool to make this easier. THESE ARE NOT ALL POSSIBLE CASES, THESE ARE JUST EXAMPLES. REFER TO THE FACT THAT IT GOES FROM 0000-9999.<br>
 Step 6: Open the file you created in Step 5 with the program you installed in Step 2.<br>
 Step 7: Edit the filename on the end of the link variable to the filename of the file you created in Step 5. Then save that file.<br>
 Step 8: Use the number on the end of the filename mentioned in Step 7, to make a file inside the pages directory, which is in the directory you created in Step 3, and make a file named page-numr and replace numr with the number you obtained at the beginning of this step, replace numr with that number.<br>
