@@ -1,0 +1,117 @@
+/* - - - - - - CSS Document - - - - - - - - -
+
+Title : Global style sheet for client-side web development standards
+Author : Cody Lindley 
+
+- - - - - - - - - - - - - - - - - - - - - */
+
+/* ---------->>> CSS Hacks <<<---------------------------------------------------------------*/
+/*
+*{padding: 0; margin: 0;}
+*/
+
+/* ----- global default/initial styles ----- */
+
+html, body {height:100%;}
+
+/* ----- add selectors here for font sizing ----- */
+#TB_window  {font-size: 9pt}
+
+#contentPad{
+margin:20px;
+}
+
+#TB_overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index:100;
+	width: 100%;
+	height: 100%;
+	background-color: #000;
+	filter:alpha(opacity=50);
+	-moz-opacity: 0.6;
+	opacity: 0.6;
+}
+
+#TB_window {
+	position: absolute;
+	z-index: 104;
+	color:#fff;
+	display:none;
+}
+#TB_background{
+	position:absolute;
+	top:0;
+	left:0;
+	z-index:101;
+}
+#TB_caption{
+	height:31px;
+	padding:10px 30px 10px 25px;
+	background-color:#000;
+	float:left;
+}
+
+#TB_closeWindow{
+	font-size: 8pt;
+	height:31px;
+	padding:10px 25px 10px 0;
+	float:right;
+}
+
+#TB_header{
+	width: 384px;
+	height:20px;
+	margin: 0px 0px 1px 0px;
+	background: url(../images/tb_header_bg.gif) no-repeat left top;
+}
+#TB_ajaxCaption{
+	float:left;
+	width: 360px;
+	height:16px;
+	color: #fff;
+	font-size: 14px;
+	padding-top:2px;
+	text-indent: 6px;
+	font-weight: bold;
+	text-align: left;
+}
+
+#TB_closeAjaxWindow{
+	float:right;
+	padding-top:4px;
+	padding-right:4px;
+}
+#TB_closeAjaxWindow a{
+	display: block;
+	width: 12px;
+	height: 12px;
+	font-size: 1px;
+	text-indent: -3000px;
+	background: url(../images/b_close.gif) no-repeat left top;
+}
+
+#TB_ajaxContent{width: 384px; margin: 0 auto; height: 280px;}
+
+#TB_load{
+	text-align: center;
+	position: absolute;
+	top: 50%;
+	left: 0px;
+	width: 100%;
+	overflow: visible;
+	visibility: visible;
+	display: block;
+	z-index:103;
+}
+
+#TB_loadContent  {
+	margin-left: -125px;
+	position: absolute;
+	top: -50px;
+	left: 50%;
+	width: 250px;
+	height: 100px;
+	visibility: visible;
+}
