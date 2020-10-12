@@ -28,7 +28,7 @@ Step 7: Edit the filename on the end of the link variable to the filename of the
 Step 8: Use the number on the end of the filename mentioned in Step 7, to make a file inside the pages directory, which is in the directory you created in Step 3, and make a file named page-numr and replace numr with the number you obtained at the beginning of this step, replace numr with that number.<br>
 Step 9: Save that file, and upload all new files to this repo.<br>
 Step 10: Done!<br>
-# Pointing your registar to the CNAME file you created in this repo.
-Step 1: Follow this guide, but skip adding the CNAME file inside this repo since you have already done it while following the first guide in this README. Once you have acknowledged this, proceed to Step 2.
-Step 2: Watch this guide and follow it, while maintaining what I said in Step 1. https://www.youtube.com/watch?v=mPGi1IHQxFM
-Step 3: Done!
+# Pointing your registar to the CNAME file you created in this repo.<br>
+Step 1: Follow this guide, but skip adding the CNAME file inside this repo since you have already done it while following the first guide in this README. Once you have acknowledged this, proceed to Step 2.<br>
+Step 2: Watch this guide and follow it, while maintaining what I said in Step 1. https://www.youtube.com/watch?v=mPGi1IHQxFM After you have done that, proceed to Step 3.<br>
+Step 3: Done!<br>
