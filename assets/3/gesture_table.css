@@ -1,0 +1,46 @@
+.gesture_table{
+	width:780px;
+	background:url(../images/common/diag_lines.gif);
+	font-size: 11px;
+	margin:20px auto;
+}
+.gesture_table td{
+	width:50%;
+	padding:10px 10px 280px 10px;
+	background:white no-repeat center bottom;
+	color:#69707b;
+}
+td.gesture_intro{
+	padding:10px;
+	background:#f5faff;
+}
+td.gesture_intro dt{
+	padding-left:15px;
+	background-image: url(../images/common/blue_brick.gif);
+	background-repeat: repeat-y;
+}
+td.gesture_intro dt img{
+	float:left;
+	margin-right:5px;
+}
+.gesture_table dl{
+	padding:0px;
+	margin:0px;
+}
+.gesture_table dt{
+	font-size:14px;
+	font-weight:bold;
+	color:#45c4ef;
+	margin:0px 0px 8px 0px;
+	padding:0px;
+}
+.gesture_table dd{
+	padding:0px;
+	margin:0px;
+	line-height:13px;
+}
+.gesture_table dd img{
+	position:relative;
+	top:3px;
+	margin-top:-5px;
+}
