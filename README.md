@@ -1,5 +1,5 @@
 # RIP wiilink24.github.io
-## This page is dead, and now redirects to wiilink24.com
+## This page is dead, and now redirects to wiilink24.com<br>
 # wiilink24.github.io<br>
 This is WiiLink24's official site!<br>
 You can view our documentation on Google sites, where we keep API documentation.<br>
