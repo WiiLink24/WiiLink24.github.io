@@ -1,6 +1,6 @@
 # wiilink24.github.io
-This is **no longer** WiiLink24's official site!
-We have migrated to Google Sites!
-Note that the webpage wiilink24.github.io is now gone, go to wiilink24.com (which isn't up yet)!
+This is WiiLink24's official site!
+You can view our documentation on Google sites, where we keep API documentation.
+wiilink24.com (which isn't up yet) is where we shall route wiilink24.github.io!
 
 The archive is located [here](https://wiilink24-8ff305a4b1.drafts.github.io/)
