@@ -1,8 +1,9 @@
 # wiilink24.github.io<br>
-This is WiiLink24's official site!<br>
+This is **no longer** WiiLink24's official site!<br>
 You can view our documentation on Google sites, where we keep API documentation.<br>
 wiilink24.com (which isn't up yet) is where we shall route wiilink24.github.io!<br>
 <br>
+**These links are dead:**
 The first version is [here](https://wiilink24-8ff305a4b1.drafts.github.io/)<br>
 The last archive was [here](https://wiilink24-8ff305a4b1.drafts.github.io/)<br>
 # Compiling a CNAME Record to route to wiilink24.com<br>
