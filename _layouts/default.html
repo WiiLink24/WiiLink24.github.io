@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
+    <button onclick="skiptoit(undefined)">Click me to view repo contribution and docs on the various files in the repo.</button>
     <button onclick="noapi(undefined)">Click me to view repo contribution and docs on the various files in the repo.</button>
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
@@ -37,10 +37,15 @@
       window.location.replace(link); // Simulate an HTTP redirect:
       return undefined;
     }; console.log(undefined);
+    function skiptoit(undefined) {
+      var link = "#content"; //Changed per copy, utilized in runtime as well.
+      window.location.href = link;  // Simulate a mouse click:
+      window.location.replace(link); // Simulate an HTTP redirect:
+      return undefined;
+    }; console.log(undefined);
 </script>
     <main id="content" class="main-content" role="main">
       {{ content }}
-
       <footer class="site-footer">
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
