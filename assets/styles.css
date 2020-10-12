@@ -1,0 +1,141 @@
+html {
+  background-color: #5aaebd;
+  background-blend-mode: lighten;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body {
+  background-color: #EEEEEE;
+}
+
+@font-face {
+  font-family: "CTMKF";
+  font-style: normal;
+  font-weight: 400;
+  src: local("CTMKF");
+  unicode-range: U+2460-246E, U+E000-E01C, U+E028, U+E068-E06B, U+F000-F12F;
+}
+
+*{
+  font-family:"CTMKF", -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+  line-height: 1.2;
+  letter-spacing: 0.2px;
+  font-size: 18px;
+}
+
+.banner {
+  background-image: url('/images/banner.png');
+  background-repeat: repeat-x;
+  height: 120px;
+}
+
+.table {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 24px;
+  border-spacing: 0;
+  border-collapse: collapse;
+  width: 700px;
+}
+
+table {
+  background-color: white;
+}
+
+td, th {
+  border: 2px solid #555753;
+  text-align: center;
+  padding: 8px;
+}
+
+td.question {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 2px 12px;
+}
+
+.choice1 {
+  background-color: #f540f1;
+  color: white;
+  text-align: left;
+  padding-left: 12px;
+  text-shadow: 2px 2px #000000;
+}
+
+.choice2 {
+  background-color: #2ef709;
+  color: white;
+  text-align: right;
+  padding-right: 12px;
+  text-shadow: 2px 2px #000000;
+}
+
+.novote {
+  background-color: #272727;
+  padding-left: 12px;
+}
+
+.prediction {
+  background-color: #00bdce;
+}
+
+.headercol1 {
+  float: left;
+  width: 25%;
+  text-align: left;
+}
+
+.headercol2 {
+  float: left;
+  width: 50%;
+}
+
+.headercol3 {
+  float: right;
+  width: 25%;
+  text-align: right;
+}
+
+a.country-button, a.page-button, a.page-button-hidden {
+  float: left;
+  margin: 4px 10px;
+  padding: 4px 0;
+}
+
+a.button, a.page-button, a.page-button-hidden {
+  padding: 4px 6px;
+  background-color: white;
+}
+
+a.country-button, a.button, a.page-button, a.page-button-hidden {
+  display: block;
+  width: 30%;
+  border: black solid 1px;
+  border-radius: 5px 5px 5px 5px;
+  -moz-border-radius: 5px 5px 5px 5px;
+  -webkit-border-radius: 5px 5px 5px 5px;
+  text-decoration: none;
+  color: black;
+}
+
+a.country-button:hover, a.button:hover, a.page-button:hover, td.question-button:hover {
+  background-color: #e6e6e6;
+  color: black;
+}
+
+a.page-button, a.page-button-hidden {
+  width: 45%;
+}
+
+a.page-button-hidden {
+  border: none;
+}
+
+a.country-button.active {
+  background-color: black;
+  color: white
+}
