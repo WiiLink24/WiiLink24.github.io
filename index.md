@@ -1,6 +1,8 @@
 # Welcome to WiiLink24!
 
-This is WiiLink24's official site!
+This is **no longer** WiiLink24's official site!
+It's only kept here for historical purposes (and because I don't want to delete it ;) )
+Wii are working on getting Google Sites up and running.
 
 ## Services
 ### Wii no Ma (also known as Wii Room)
