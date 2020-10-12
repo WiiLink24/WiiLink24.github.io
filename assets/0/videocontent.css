@@ -1,0 +1,68 @@
+#swfcontent {
+	margin: 0px;
+	padding: 0px;
+}
+
+.videotable {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 50px;
+}
+
+.thumbsText {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #8C8C8C;
+	text-decoration: none;
+}
+
+.thumbsText p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #8C8C8C;
+	text-decoration: none;
+}
+
+a.thumbsText:link,a.thumbsText:active,a.thumbsText:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #8C8C8C;
+	text-decoration: none;
+}
+
+a.thumbsText:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #34BEED;
+	text-decoration: underline;
+}
+
+.videoCaptionLrg {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #34BEED;
+	text-decoration: none;
+	line-height: 20px;
+	font-weight: bold;
+}
+
+.thumbs_text_bg {
+	background-image: url(../images/common/thumbs_text_bg.gif);
+	background-repeat: no-repeat;
+	background-position: top;
+	text-align: left;
+	padding: 4px;
+}
+
+.videoSelected {
+	background-image: url(../images/common/thumb_select_text_bg.gif);
+	padding: 4px;	
+}
+.videoCaptionReg {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 14px;
+	font-weight: normal;
+	color: #8C8C8C;
+	text-decoration: none;
+}

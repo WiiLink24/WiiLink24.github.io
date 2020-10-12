@@ -1,0 +1,57 @@
+.left_column{
+	margin-top:10px;
+	width:560px;
+	float:left;
+}
+.right_column{
+	margin-top:10px;
+	width:230px;
+	float:right;
+}
+.videos_subtitle{
+	display:block;
+	margin:10px 0px 10px 0px;
+	padding-left:15px;
+	background:url(../images/common/blue_brick.gif) repeat-y;
+	font-size:12px;
+	font-weight:bold;
+	color:#45c4ef;
+	clear:both;
+}
+a.list_video{
+	display:block;
+	font-size:11px;
+	font-weight:normal;
+	color:#999999;
+}
+a.list_video span{
+	display:block;
+	padding:5px 0px 2px 0px;
+	font-weight:bold;
+	color:#45c4ef;
+}
+a.list_video img{
+	margin-right:5px;
+}
+a.list_video .video_thumb{
+	width:80px;
+	height:60px;
+	float:left;
+	margin-right:5px;
+}
+#swfcontent{
+	margin-bottom:15px;
+}
+.video_title{
+	font-size:14px;
+	font-weight:bold;
+	color:#45c4ef;
+}
+.video_other_info{
+	display:block;
+	padding-top:4px;
+	font-size:12px;
+	font-weight:normal;
+	color:#999999;
+	line-height:14px;
+}
