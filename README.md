@@ -29,4 +29,5 @@ Step 8: Use the number on the end of the filename mentioned in Step 7, to make a
 Step 9: Save that file, and upload all new files to this repo.<br>
 Step 10: Done!<br>
 # Pointing your registar to the CNAME file you created in this repo.
-# Follow this guide: https://www.youtube.com/watch?v=mPGi1IHQxFM
+Step 1: Follow this guide, but skip adding the CNAME file inside this repo. https://www.youtube.com/watch?v=mPGi1IHQxFM
+Step 2: Done!
