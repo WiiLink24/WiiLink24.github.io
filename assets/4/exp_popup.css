@@ -1,0 +1,47 @@
+/* CSS Document */
+
+#exp_popup a:link {
+	text-decoration: none;
+	color: #8c8c8c;
+}
+#exp_popup a:visited {
+	text-decoration: none;
+	color: #8c8c8c;
+}
+#exp_popup a:hover {
+	text-decoration: underline;
+	color: #34beed;
+}
+#exp_popup a:active {
+	text-decoration: none;
+	color: #8c8c8c;
+}
+
+#exp_popup { width:700px; background:url(/wii-fit/exp_videos/images/exp_pop_bg.gif); }
+#exp_popup .inner { padding:20px 20px 0px 20px; }
+#exp_popup .title {  }
+#exp_popup .bottom { width:700px; height:22px; background:url(/wii-fit/exp_videos/images/exp_pop_bg_b.gif); }
+#exp_popup #items { margin-top:10px; }
+#exp_popup table { width:660px }
+#exp_popup .exp_moviethumb,
+#exp_popup .exp_moviethumb a { display:block; width:148px; height:111px; }
+
+td#dotline {
+	width: 38px;
+	background-image: url(wii-fit/exp_videos/images/dotline_y.gif);
+	background-repeat: repeat-y;
+	background-position: center;
+}
+
+#exp_popup .back_btn { display:block; margin-top: 20px; }
+
+
+table.movieitem {	margin:0px 0px 20px 9px;	padding:0px;	width:148px;	float: left;}
+table.movieitemleft {	clear: left;	margin:0px 0px 20px 0px;	padding:0px;	width:148px;	float: left;}
+table.opmovieitem {width:148px;	margin: 0px auto;}
+td.movietitle {height:26px;		vertical-align: top;}
+td.moviethumb {background-repeat: no-repeat;}
+td.movieblow {	height:6px;	background-image: url(/wii-fit/exp_videos/images/blow_up.gif);	background-repeat: repeat-x;	background-position: bottom;}
+td.movietxt {	background-image: url(wii-fit/exp_videos/images/dot_pat.gif);	padding: 0px 1px 1px 1px;	background-position: -1px;}
+td.movietxt div {	width:146px;	background-color: #FFFFFF;	text-align: center;}
+span.movietext {	font-size: 77%;	padding:5px;	display: block;}

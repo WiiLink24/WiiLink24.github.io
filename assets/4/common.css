@@ -1,0 +1,393 @@
+/* START MAIN CONTENT DIV STYLES */
+body {
+	background-color: #FFFFFF;
+	text-align: left;
+	margin: 0px;
+	padding-top: 20px;
+	padding-right: 0px;
+	padding-bottom: 40px;
+	padding-left: 0px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+
+#mainWrapper {
+	margin: auto;
+	width: 905px;
+	min-width: 905px;
+	text-align: left;
+	padding: 0px;
+	
+}
+
+#content {
+	clear: both;
+	margin: 0px;
+	padding: 0px;
+}
+
+#featuresLeft {
+	float: left;
+	width: 467px;
+	padding: 37px 0px 0px 40px;
+	margin: 0px;
+	clear: left;
+}
+
+#featuresRight {
+	float: right;
+	height: 565px;
+	width: 322px;
+	margin: 0px;
+	padding-top: 23px;
+	padding-right: 40px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	clear: right;
+}
+
+#globalNav {
+	background-image: url(/web/20070327011655im_/http://us.wii.com/images/common/main_horz_line.gif);
+	background-repeat: no-repeat;
+	background-position: bottom;
+	height: 45px;
+	width: 905px;
+}
+
+a:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	text-decoration: none;
+	
+}
+a:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	text-decoration: none;
+	color: #8c8c8c;
+}
+
+a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	text-decoration: underline;
+	color: #34beed;
+}
+
+a:active {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	text-decoration: none;
+	color: #8c8c8c;
+}
+
+
+/* END MAIN CONTENT DIV STYLES */
+
+
+
+/* START FOOTER*/
+#globalFooter {
+	margin: 0px;
+	width: 905px;
+	padding-right: 0px;
+	padding-bottom: 40px;
+	padding-left: 0px;
+	height: 146px;
+	clear: both;
+	float: none;
+	padding-top: 40px;
+}
+.footer_newsletter {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	color: #34beed;
+	text-decoration: none;
+	padding-left: 3px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+}
+.footerLinksTable {
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+}
+.footerCopyrightText {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	color: #999999;
+	text-decoration: none;
+}
+a.footerCopyright:link,a.footerCopyright:active,a.footerCopyright:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	color: #999999;
+	text-decoration: none;
+}
+a.footerCopyright:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	color: #34beed;
+	text-decoration: underline;
+}
+.copyrightPad {
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+}
+/* END FOOTER*/
+
+
+
+/* START SWF CONTENT */
+
+/*#swfcontent dt {
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+}*/
+
+#titlebar {
+	padding: 0px;
+	width: 800px;
+	margin-bottom: 10px;
+	margin-top: 40px;
+	margin-left: 50px;
+	height: 34px;
+	margin-right: 0px;
+	background-image: url(/web/20070327011655im_/http://us.wii.com/images/common/title_dotted_line.gif);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+
+#titlebar dt {
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	height: 33px;
+	width: 680px;
+}
+#titlebar dd {
+	float: right;
+	margin: 0px;
+	padding: 0px;
+	height: 33px;
+	width: 120px;
+}
+
+#hdrExpvids {
+	height: 14px;
+	width: 322px;
+}
+
+/* END SWF CONTENT */
+
+
+
+/* START RIGHT-SIDE VIDEO THUMBNAIL CONTENT */
+
+#expVids {
+	background-image: url(/web/20070327011655im_/http://us.wii.com/images/common/related_vid_bg.gif);
+	background-repeat: no-repeat;
+	background-position: top;
+	height: 550px;
+	width: 322px;
+	float: right;
+	display: block;
+}
+
+#expVidsDetail p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #8C8C8C;
+	text-decoration: none;
+}
+
+#expVids dd {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #8C8C8C;
+	text-decoration: none;
+}
+#expVids span {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #8C8C8C;
+	text-decoration: none;
+}
+#expVids a:link,a:active,a:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #8C8C8C;
+	text-decoration: none;
+}
+#expVids a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #34BEED;
+	text-decoration: underline;
+}
+
+/*#expVidsDetail {
+	margin: 0px;
+	padding: 0px;
+}*/
+
+#expVidsDetail dl {
+	height: 60px;
+	width: 271px;
+	display: block;
+	margin-top: 20px;
+	margin-right: 0px;
+	margin-bottom: 20px;
+	margin-left: 40px;
+}
+
+#expVidsDetail dt {
+	background-color: #FFFFFF;
+	text-align: left;
+	float: left;
+	height: 60px;
+	width: 80px;
+}
+
+#expVidsDetail dd {
+	margin: 2px;
+	width: 185px;
+	float: right;
+	display: block;
+	height: 60px;
+	background-color: #FFFFFF;
+	padding: 0px;
+}
+
+/* RIGHT-SIDE VIDEO THUMBNAIL CONTENT */
+
+
+
+/* -- FEATURES & EXPERIENCE SECTION-- START RIGHT-SIDE VIDEO THUMBNAIL CONTENT */
+
+#featuresVidRight {
+	float: right;
+	height: 565px;
+	width: 322px;
+	margin: 0px;
+	padding-top: 23px;
+	padding-right: 50px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+
+#featuresVidLeft {
+	float: left;
+	width: 467px;
+	padding: 37px 0px 0px 50px;
+	margin: 0px;
+}
+
+#featuresVidLeft dl {
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+}
+
+/* un commented style for VidLeft Div */
+
+#featuresVidLeft dt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #34beed;
+	padding-top: 14px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+
+/* changed fon from 9px to 11 px */
+
+#featuresVidLeft p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #8C8C8C;
+	font-weight: normal;
+
+}
+
+.videoDate {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	color: #34BEED;
+	text-decoration: none;
+}
+
+a.videoDate:hover {
+	text-decoration: underline;
+}
+
+.videoText {
+	text-decoration: none;
+}
+
+a.videoText:hover {
+	text-decoration: underline;
+	color: #34beed;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+
+.featTitle {
+	font-weight: bold;
+	color: #8C8C8C;
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+
+
+
+
+/* -- FEATURES & EXPERIENCE SECTION-- END RIGHT-SIDE VIDEO THUMBNAIL CONTENT */
+
+
+/*
+
+#vidsGalleryLink {
+	height: 23px;
+	width: 300px;
+	margin-bottom: 10px;
+	margin-top: 0px;
+	margin-right: 11px;
+	margin-left: 11px;
+}
+
+
+#expVidsDetails a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #34BEED;
+	text-decoration: underline;
+}*/
+.flags {
+	padding: 0px 5px 0px 0px;
+	vertical-align: text-bottom;
+}
+
+/*
+     FILE ARCHIVED ON 01:16:55 Mar 27, 2007 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:42:16 Jun 20, 2017.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/

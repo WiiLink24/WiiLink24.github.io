@@ -1,0 +1,96 @@
+#expVids dd {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #8C8C8C;
+	text-decoration: none;
+}
+#expVids span {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #8C8C8C;
+	text-decoration: none;
+}
+#expVids a:link,a:active,a:visited {
+	font-family:"Lucida Grande","Lucida Sans Unicode",Arial,Verdana,sans-serif;
+	font-size: 9px;
+	color: #8C8C8C;
+	text-decoration: none;
+}
+#expVids a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #34BEED;
+	text-decoration: underline;
+}
+.videoDate {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #34BEED;
+	text-decoration: none;
+}
+
+a.videoDate:hover {
+	text-decoration: underline;
+}
+
+
+a:link {
+	text-decoration: none;
+	
+}
+a:visited {
+	text-decoration: none;
+	color: #8c8c8c;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #34beed;
+}
+
+a:active {
+	text-decoration: none;
+	color: #8c8c8c;
+}
+
+.videoText {
+	text-decoration: none;
+}
+
+a.videoText:hover {
+	text-decoration: underline;
+	color: #34beed;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+
+
+#featuresVidLeft dt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #34beed;
+	padding-top: 14px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+
+#featuresVidLeft p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #8C8C8C;
+
+}
+.featTitle {
+	font-weight: bold;
+	color: #8C8C8C;
+	text-decoration: none;
+}
+/*#expVidsDetails a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #34BEED;
+	text-decoration: underline;
+}*/
