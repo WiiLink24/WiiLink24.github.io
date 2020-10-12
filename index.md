@@ -1,3 +1,3 @@
 # Welcome to WiiLink24!
 
-This page hosts 6100m's WiiLink24 CDN!
+This is WiiLink24's official site!
