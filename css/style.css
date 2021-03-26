@@ -24,6 +24,10 @@ body {
     padding: 10px;
 }
 
+.red-orange {
+    background-color: rgb(235, 73, 52)
+}
+
 .center {
     text-align: center;
 }
