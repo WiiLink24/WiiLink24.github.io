@@ -9,6 +9,11 @@ body {
     padding: 15px;
 }
 
+.green {
+    background-color: rgb(48, 176, 46);
+    padding: 10px;
+}
+
 .yellow {
     background-color: rgb(194, 194, 50);
     padding: 10px;
