@@ -1,0 +1,9 @@
+# Make all rendered pages use the default theme by default.
+# Additionally, let scripts be defined but empty.
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+      scripts:
