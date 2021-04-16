@@ -9,28 +9,24 @@ body {
     padding: 15px;
 }
 
-.green {
+.publicly-available {
     background-color: rgb(48, 176, 46);
     padding: 10px;
 }
 
-.yellow {
-    background-color: rgb(194, 194, 50);
-    padding: 10px;
-}
-
-.red {
+.no-progress {
     background-color: rgb(184, 17, 17);
     padding: 10px;
 }
 
-.orange {
-    background-color: rgb(185, 106, 15);
+.private-beta {
+    background-color: rgb(24, 120, 190);
     padding: 10px;
 }
 
-.red-orange {
-    background-color: rgb(235, 73, 52)
+.in-development {
+    background-color: rgb(198, 165, 51);
+    padding: 10px;
 }
 
 .center {
