@@ -4,51 +4,75 @@ body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
-.navbar {
-    text-align: center;
+/* For navbar */
+.page-header {
     padding: 15px;
+    padding-top: 20px;
 }
 
-.publicly-available {
-    background-color: rgb(48, 176, 46);
-    padding: 10px;
+.nav-logo {
+    width: 100px;
 }
 
-.no-progress {
-    background-color: rgb(184, 17, 17);
-    padding: 10px;
+.navbar {
+    text-align: right;
 }
 
-.private-beta {
-    background-color: rgb(24, 120, 190);
-    padding: 10px;
-}
-
-.in-development {
-    background-color: rgb(198, 165, 51);
-    padding: 10px;
+.mobile-bars {
+  display: none;
 }
 
 .center {
     text-align: center;
 }
 
+/* Ensure that the navbar as a whole stays on screen. */
+.page-header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  overflow: hidden;
+}
+
+.nav-logo {
+  float: left;
+  margin: auto;
+}
+
+.page-header nav {
+  float: right;
+}
+
+.page-header ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.page-header li {
+  float: left;
+  list-style-type: none;
+}
+
+.page-header li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 16px;
+  text-decoration: none;
+}
+
+.page-header li a:hover {
+  background-color: #225a2d;
+  border-radius: 12px;
+}
+
 li {
     list-style-type: square;
 }
 
-.navbar a {
-    color: white;
-    padding: 4px 12px;
-    text-decoration: none;
-    font-size: 24px;
-    transition: .3s;
-}
-
-.navbar a:hover {
-    background-color: #225a2d;
-    border-radius: 12px;
-}
 
 .content {
     color: white;
@@ -75,6 +99,8 @@ li {
     justify-content: center;
 }
 
+
+/* For service status list */
 .services {
     display: flex;
     justify-content: center;
@@ -83,6 +109,26 @@ li {
 .service {
     width: 40%;
     margin: 5px;
+}
+
+.publicly-available {
+    background-color: rgb(48, 176, 46);
+    padding: 10px;
+}
+
+.no-progress {
+    background-color: rgb(184, 17, 17);
+    padding: 10px;
+}
+
+.private-beta {
+    background-color: rgb(24, 120, 190);
+    padding: 10px;
+}
+
+.in-development {
+    background-color: rgb(198, 165, 51);
+    padding: 10px;
 }
 
 .item {
@@ -134,7 +180,7 @@ li {
     margin-right: 30%;
 }
 
-.header h1, .header ul {
+.header h1, .header h3, .header ul {
     margin-left: 20%;
     margin-right: 20%;
 }
@@ -148,10 +194,6 @@ li {
 
 .footer p {
     font-size: 14px;
-}
-
-.navbar .icon {
-    display: none;
 }
 
 .section table {
@@ -208,7 +250,7 @@ li {
         background-image: none;
     }
 
-    .header h1, .header ul {
+    .header h1, .header h3, .header ul {
         margin-left: 3%;
         margin-right: 3%;
     }
@@ -244,7 +286,14 @@ li {
 }
 
 @media screen and (max-width: 550px) {
-    .navbar a:not(:first-child) {
+    .wiilink24-logo {
+        text-align: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .navbar a {
         display: none;
     }
 
@@ -257,11 +306,7 @@ li {
         display: block;
     }
 
-    .navbar.responsive {
-        position: relative;
-    }
-
-    .navbar.responsive .icon {
+    .mobile-bars {
         position: absolute;
         right: 0;
         top: 0;
@@ -273,13 +318,7 @@ li {
         text-align: left;
     }
 
-    .navbar {
-        padding: 0;
-    }
-
     .navbar a {
         float: left;
-        padding-top: 3px;
-        padding-bottom: 3px;
     }
 }
