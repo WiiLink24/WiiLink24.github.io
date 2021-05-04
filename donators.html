@@ -1,17 +1,16 @@
 ---
 title: Donators
 ---
-<div class="section">
-    <h1 class="center"><i class="mdi mdi-account-multiple"></i> Donators</h1>
-    <p class="center">We thank all of our donators. They ensure that WiiLink24 will thrive for years to come!</p>
-    <table>
-        <tr>
-          <th style="text-align:center">Thank you!</th>
-        </tr>
-        {% for donator in site.data.donators %}
-        <tr>
-          <td style="text-align:center">{{ donator }}</td>
-        </tr>
-        {% endfor %}
-      </table>
-</div>
+
+<h1 class="center"><i class="mdi mdi-account-multiple"></i> Donators</h1>
+<p class="center">We thank all of our donators. They ensure that WiiLink24 will thrive for years to come!</p>
+<table>
+    <tr>
+        <th style="text-align:center">Thank you!</th>
+    </tr>
+    {% for donator in site.data.donators %}
+    <tr>
+        <td style="text-align:center">{{ donator }}</td>
+    </tr>
+    {% endfor %}
+</table>
