@@ -1,5 +1,5 @@
 ---
-title: Wii Room
+title: Digicam Install Guide
 ---
 
 
