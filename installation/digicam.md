@@ -30,6 +30,6 @@ Installing Digicam takes a few more steps than usual, but it's made easy with ou
 12. Launch Wii Mod Lite.
 13. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 14. Select the  and press A to install.
-15. If your Wii is in English, install `WiiLink24_SPD.wad`. This is required so that we know your email address to send files.
+15. If your Wii is not a Japanese region, install `WiiLink24_SPD.wad`. This is required so that we know your email address to send files.
 16. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 17. Launch Digicam and enjoy!
