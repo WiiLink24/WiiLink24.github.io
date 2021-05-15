@@ -33,3 +33,12 @@ Installing Digicam takes a few more steps than usual, but it's made easy with ou
 15. Select the Digicam Channel WAD and press `A` to install.
 16. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 17. Launch Digicam and enjoy!
+
+## How to add your email to SPD
+Please make sure you have Digicam and the SPD `wad` installed on your Wii.
+1. Launch Digicam from your Wii's home menu
+2. On the bottom right, press `Address settings` and then `Yes`.
+3. Click on `Email Address` within SPD and type in your email address (make sure you **put it in correctly** or it **will not work**!)
+4. Press `OK` and then `Done`
+5. Once you are in the SPD main menu, choose `Digicam` in the `Choose Channel` menu.
+After you've done that, it should work!
