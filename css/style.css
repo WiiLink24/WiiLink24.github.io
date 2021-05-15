@@ -160,7 +160,7 @@ li {
     background-color: #1e5529;
 }
 
-.section h1, .section p, .section li, .section h2, .section h3 {
+.section h1, .section p, .section li, .section h2, .section h3, .section h4, .section h5 {
     margin-left: 20%;
     margin-right: 20%;
 }
@@ -255,7 +255,7 @@ li {
         margin-right: 3%;
     }
 
-    .section h1, .section p, .section li, .section h2 {
+    .section h1, .section p, .section li, .section h2, .section h3, .section h4, .section h5 {
         margin-left: 3%;
         margin-right: 3%;
     }
