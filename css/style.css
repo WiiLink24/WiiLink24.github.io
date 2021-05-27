@@ -140,7 +140,6 @@ li {
 .header-logo {
     left: 50%;
     top: 50%;
-    margin-top: 5%;
     text-align: center;
     font-size: 2em;
 }
@@ -151,6 +150,7 @@ li {
     display: block;
     margin: auto;
     width: 40%;
+    margin-top: 5%;
 }
 
 .header-logo a {
