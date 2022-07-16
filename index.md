@@ -40,7 +40,7 @@ info: <i class="mdi mdi-help-circle"></i>
  - Yes!
 
 <div class="center">
-### Have further questions? Read our [{{ page.info }} FAQ](/faq)!
+### Have further questions? Read our full [{{ site.info }}](/faq)!
 </div>
 </div>
 

@@ -11,6 +11,7 @@ defaults:
 kramdown:
   auto_ids: true
   parse_block_html: true
+
 # Commonly used links throughout the site.
 # Reference as {{ site.github }}.
 discord: https://discord.gg/reqUMqxu8D
@@ -20,3 +21,6 @@ guide: https://wii.guide/wiilink24
 guide_striim: https://wii.guide/kirby-tv
 patreon: https://www.patreon.com/WiiLink24
 youtube: https://www.youtube.com/wiilink
+
+# Special case to avoid duplication.
+info: <i class="mdi mdi-help-circle"></i> FAQ
