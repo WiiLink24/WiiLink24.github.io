@@ -9,10 +9,6 @@ h3, ul {
     margin-left: 1em;
 }
 
-body {
-    line-height: 1.5em;
-}
-
 /* For title pairs, do not pad between. */
 .title-pair > h1 {
     padding-bottom: 0px;
