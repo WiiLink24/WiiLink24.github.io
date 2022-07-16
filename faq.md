@@ -31,7 +31,10 @@ body {
 </div>
 
 ### Why WiiLink?
-  - WiiLink is the only service to bring back Japanese exclusive Wii channels after they were officially shut down! We've made [Wii no Ma](/services/wii-room) and the [Digicam Print Channel](/services/digicam) functional once more. We're hard at work on the [Demae Channel](/services/demae), letting you order food directly from your Wii. With our service, you can experience all of these once more on your Nintendo Wii - possibly for the first time.
+ - WiiLink is the only service to bring back Japanese exclusive Wii channels after they were officially shut down.
+   - We've made [Wii no Ma](/services/wii-room) and the [Digicam Print Channel](/services/digicam) functional once more.
+   - We're hard at work on the [Demae Channel](/services/demae), letting you order food directly from your Wii.
+ - With our service, you can experience all of these once more on your Nintendo Wii - possibly for the first time.
 
 ### Why does WiiLink exist?
 - Without a replacement service for these Japanese and Streaming channels, they would be lost to time, never to be seen again. However, thanks to our work, future generations of players can experience these channels again!
@@ -45,24 +48,27 @@ body {
 </div>
 
 ### I have a question about a WiiLink channel!
- - Before anything else, check our [Services](/services) and read that channel's FAQ!
- - The best time for real-time support is within our [Discord server]({{ site.discord }}), where an active community exists.
- - You can also contact us via our [Twitter](https://twitter.com/wiilink24) account!
+ - Check our [Services](/services) and read that channel's FAQ. Your question may already be answered!
+ - If you still have questions, please reach out. We're more than happy to assist!
+    - The best time for real-time support is within our [Discord server]({{ site.discord }}), where an active community exists.
+    - You can also contact us via our [Twitter](https://twitter.com/wiilink24) account!
 
 ### Will the Demae Channel order real food?
- - Yes! There is already tested support for Domino's in Canada, and Deliveroo in Europe. There are plans to expand more services over to Demae for other countries.
+ - Yes! Some current information:
+   - Support has been developed for Domino's in Canada, and Deliveroo in Europe.
+   - There are plans to expand more services over to Demae for other countries.
  - If this ever changes throughout development, we will **always** have fake ordering, with restaurants curated from our team!
 
 ### How do I install a WiiLink channel on my Wii or Wii U?
  - You'll want to check out our [instructions on wii.guide]({{ site.guide }}) for simple, easy to follow instructions to get everything installed.
- - For video streaming channels from Striim Network, see their [installation guide]({{ site.guide_kirby }})!
+ - For video streaming channels from Striim Network, see their [installation guide]({{ site.guide_striim }})!
 
 ### How do I update a WiiLink channel?
- - Updating WiiLink channels is the exact same as installing! Simply run the WiiLink or Striim patcher, and install the created WADs.
+ - Updating WiiLink channels is the exact same as installing! Simply run the WiiLink or Striim patcher once more, and install the created WADs.
 
 ### Is your service open source?
  - Absolutely! We're a strong believer in open source - from our service backends to our patchers, we strive to release source code.
- - We're primarily active on GitHub, and highly appreciate contributions! Check us out: [https://github.com/WiiLink24](https://github.com/WiiLink24)
+ - We're primarily active on GitHub, and highly appreciate contributions! Check us out: [{{ site.github }}]({{ site.github }})
 
 <div class="title-pair">
 # WiiConnect24
