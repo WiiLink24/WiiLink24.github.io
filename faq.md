@@ -8,11 +8,6 @@ h3, ul {
     margin-left: 1em;
 }
 
-li {
-    /* Allow bullet points to adjust for padding */
-    list-style-position: inside;
-}
-
 body {
     line-height: 1.5em;
 }
@@ -27,6 +22,8 @@ body {
 </style>
 
 <h1 class="center"><i class="mdi mdi-help-circle"></i> FAQ</h1>
+
+{% include table-of-contents.html %}
 
 <div class="title-pair">
 # WiiLink
@@ -82,5 +79,5 @@ body {
 ### WiiConnect24 services are already provided by other projects - why WiiLink?
  - We believe we can offer a fresh, new, and exciting spin on what WiiConnect24 channels can provide!
 
-### Wii WiiLink's offering conflict with existing services?
+### Will WiiLink's offering conflict with existing services?
  - If you already have existing services (such as RiiConnect24) on your console, don't fret! You won't have to install our versions of the software offered by them, and you can continue using them as you already are. This is not directly meant to be a replacement (albeit you may use it as such), and as such we just ask you to look at this as yet another addition to the WiiLink services line.

@@ -15,6 +15,11 @@ body {
     width: 100px;
 }
 
+.table-of-contents {
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+
 .navbar {
     text-align: right;
 }
@@ -174,9 +179,7 @@ li {
     padding: 30px;
     background-position: center;
     background-repeat: no-repeat;
-}
 
-.section h1, .section p, .section li, .section h2, .section h3, .section h4, .section h5 {
     margin-left: 20%;
     margin-right: 20%;
     padding-top: 5px;
