@@ -28,7 +28,7 @@ body {
 
 <h1 class="center"><i class="mdi mdi-help-circle"></i> FAQ</h1>
 
-<div class="title-pair" markdown="1">
+<div class="title-pair">
 # WiiLink
 *Information about the service itself.*
 </div>
@@ -42,7 +42,7 @@ body {
 ### Is using WiiLink legal?
 - Absolutely. We develop all of our channels without copyrighted code and material, and rely solely on what is provided within the channel and public knowledge. All code is written from the ground up. You will have no legal trouble from using our service.
 
-<div class="title-pair" markdown="1">
+<div class="title-pair">
 # Channels
 *Regarding the channels you install to your Wii.*
 </div>
@@ -67,7 +67,7 @@ body {
  - Absolutely! We're a strong believer in open source - from our service backends to our patchers, we strive to release source code.
  - We're primarily active on GitHub, and highly appreciate contributions! Check us out: [https://github.com/WiiLink24](https://github.com/WiiLink24)
 
-<div class="title-pair" markdown="1">
+<div class="title-pair">
 # WiiConnect24
 *WiiLink's plans for a WiiConnect24 service.*
 </div>

@@ -10,7 +10,7 @@ defaults:
 
 kramdown:
   auto_ids: true
-
+  parse_block_html: true
 # Commonly used links throughout the site.
 # Reference as {{ site.github }}.
 discord: https://discord.gg/reqUMqxu8D

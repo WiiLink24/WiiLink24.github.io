@@ -7,7 +7,7 @@ play: <i class="mdi mdi-play-circle"></i>
 info: <i class="mdi mdi-help-circle"></i>
 ---
 
-<div class="header header-logo" markdown="1">
+<div class="header header-logo">
 ![WiiLink Logo](/assets/header.png)
 # A new online service for the Wii.
 [Install it now {{ page.play }}]({{ site.guide }})
@@ -23,8 +23,8 @@ info: <i class="mdi mdi-help-circle"></i>
   </ul>
 </div>
 
-<div class="faq" markdown="1">
-<span class="center" markdown="1">
+<div class="faq">
+<span class="center">
 # {{ page.info }} Quick FAQ
 
 ## Why WiiLink?
@@ -39,14 +39,14 @@ info: <i class="mdi mdi-help-circle"></i>
 ## Will the Demae Channel order real food?
  - Yes!
 
-<div class="center" markdown="1">
+<div class="center">
 ### Have further questions? Read our [{{ page.info }} FAQ](/faq)!
 </div>
 </div>
 
 <div class="section">
-    <h1 class="center"><i class="mdi mdi-movie-open"></i> Promotional Video</h1>
-    <div class="embed">
-        <iframe src="https://www.youtube.com/embed/Y8gSqBd4oT0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="WiiLink: Japan Is Coming to You" allowfullscreen></iframe>
-    </div>
+  <h1 class="center"><i class="mdi mdi-movie-open"></i> Promotional Video</h1>
+  <div class="embed">
+  <iframe src="https://www.youtube.com/embed/Y8gSqBd4oT0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="WiiLink: Japan Is Coming to You" allowfullscreen></iframe>
+  </div>
 </div>
