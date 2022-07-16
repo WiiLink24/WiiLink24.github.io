@@ -7,6 +7,10 @@ defaults:
     values:
       layout: "default"
       scripts:
+
+kramdown:
+  auto_ids: true
+
 # Commonly used links throughout the site.
 # Reference as {{ site.github }}.
 discord: https://discord.gg/reqUMqxu8D
