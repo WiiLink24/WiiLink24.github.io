@@ -7,3 +7,12 @@ defaults:
     values:
       layout: "default"
       scripts:
+# Commonly used links throughout the site.
+# Reference as {{ site.github }}.
+discord: https://discord.gg/reqUMqxu8D
+twitter: https://twitter.com/WiiLink24
+github: https://github.com/WiiLink24
+guide: https://wii.guide/wiilink24
+guide_striim: https://wii.guide/kirby-tv
+patreon: https://www.patreon.com/WiiLink24
+youtube: https://www.youtube.com/wiilink

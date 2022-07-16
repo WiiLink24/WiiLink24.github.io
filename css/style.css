@@ -74,6 +74,7 @@ li {
 }
 
 .content a {
+    color: #01cb2b;
     text-decoration: none;
 }
 
@@ -151,11 +152,6 @@ li {
     margin: auto;
     width: 40%;
     margin-top: 5%;
-}
-
-.header-logo a {
-    text-decoration: none;
-    color: #01cb2b;
 }
 
 .coming-soon {
