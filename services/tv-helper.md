@@ -9,6 +9,6 @@ layout: no-section
 </div>
 
 <div class="section">
-  <h3>Control with your Wii.</h3>
-  <h3>View the latest information.</h3>
+## Explore a new way to discover shows, directly on your Wii.
+ - View shows occuring around you.
 </div>
