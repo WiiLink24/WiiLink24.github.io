@@ -61,6 +61,11 @@ h3, ul {
 ### How do I update a WiiLink channel?
  - Updating WiiLink channels is the exact same as installing! Simply run the WiiLink or Striim patcher once more, and install the created WADs.
 
+### I'm recieving error -1022 when trying to install WiiLink WADs on a WAD manager!
+ - Whenever this happens, just press `-` and then `A` on the Wii Remote to uninstall the channel(s). Afterwards, reinstall the channel(s) from your WAD directory.
+ - If the problem persists, please bring up the issue in support on our [Discord server]({{ site.discord }}) and we will try to help you.
+
+
 ### Is your service open source?
  - Absolutely! We're a strong believer in open source - from our service backends to our patchers, we strive to release source code.
  - We're primarily active on GitHub, and highly appreciate contributions! Check us out: [{{ site.github }}]({{ site.github }})
