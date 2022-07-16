@@ -1,5 +1,6 @@
 ---
 title: FAQ
+icon: help-circle
 ---
 
 <!-- Special styling to permit readability. -->
@@ -20,8 +21,6 @@ body {
     color: gray;
 }
 </style>
-
-<h1 class="center"><i class="mdi mdi-help-circle"></i> FAQ</h1>
 
 {% include table-of-contents.html %}
 
