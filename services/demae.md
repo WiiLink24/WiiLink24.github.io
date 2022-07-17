@@ -27,5 +27,5 @@ layout: no-section
  - The Demae Channel only supports <b>pay-on-delivery</b>, where you will have to pay in either cash or card, to the delivery driver. You cannot input your card details into the Demae Channel or Set Personal Data in any way.
 
 ### Does WiiLink save my address when using Demae Channel?
- - No, we cannot see your address. The only time we ever recieve it is when you place an order, where it is sent straight to the provider (e.g. Dominos), not us.
+ - No, we cannot see your address. The only time we ever receive it is when you place an order, where it is sent straight to the provider (e.g. Dominos), not us.
 </div>
