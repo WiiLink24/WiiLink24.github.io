@@ -27,12 +27,12 @@ Services core to WiiLink, originally only available within Japan.
         <td class="publicly-available">Full Release</td>
     </tr>
     <tr>
-        <td> <a href="/services/s/kirby-tv">Kirby TV Channel</a> </td>
-        <td class="publicly-available">Public Beta</td>
-    </tr>
-    <tr>
         <td> <a href="/services/demae">Demae Channel</a> </td>
         <td class="private-beta">Closed Beta</td>
+    </tr>
+    <tr>
+        <td> <a href="/services/tv-helper">TV no Tomo Channel</a> </td>
+        <td class="in-development">In Development</td>
     </tr>
 </table>
 
@@ -56,10 +56,6 @@ Functionality provided by WiiConnect24, revived by WiiLink.
         <td> <a href="/services/w/nintendo">Nintendo Channel</a> </td>
         <td class="in-development">In Development</td>
     </tr>
-    <tr>
-        <td> <a href="/services/tv-helper">TV no Tomo Channel</a> </td>
-        <td class="in-development">In Development</td>
-    </tr>
 </table>
 
 ## Video Streaming Services
@@ -69,6 +65,10 @@ A myriad of services for you to best enjoy video within.
     <tr>
         <th>Service</th>
         <th>Status</th>
+    </tr>
+    <tr>
+        <td> <a href="/services/s/kirby-tv">Kirby TV Channel</a> </td>
+        <td class="publicly-available">Public Beta</td>
     </tr>
     <tr>
         <td> <a href="/services/s/mprime">Metroid Prime Preview Channel</a> </td>
