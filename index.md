@@ -24,7 +24,6 @@ info: <i class="mdi mdi-help-circle"></i>
 </div>
 
 <div class="faq">
-<span class="center">
 # {{ page.info }} Quick FAQ
 
 ## Why WiiLink?
@@ -41,12 +40,11 @@ info: <i class="mdi mdi-help-circle"></i>
 
 <div class="center">
 ### Have further questions? Read our full [{{ site.info }}](/faq)!
+
+# <i class="mdi mdi-movie-open"></i> Promotional Video
+<div class="embed">
+<iframe src="https://www.youtube.com/embed/Y8gSqBd4oT0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="WiiLink: Japan Is Coming to You" allowfullscreen></iframe>
 </div>
 </div>
 
-<div class="section">
-  <h1 class="center"><i class="mdi mdi-movie-open"></i> Promotional Video</h1>
-  <div class="embed">
-  <iframe src="https://www.youtube.com/embed/Y8gSqBd4oT0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="WiiLink: Japan Is Coming to You" allowfullscreen></iframe>
-  </div>
 </div>
