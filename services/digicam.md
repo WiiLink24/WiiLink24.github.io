@@ -10,7 +10,7 @@ layout: no-section
 
 <div class="section">
 
-## Digicam turns your beautiful photos into a masterpiece.
+## Digicam arranges your beautiful photos into a masterpiece.
  - Print your perfect shots directly from your Wii.
  - Create your own design.
  - Emailed directly to you.
@@ -26,4 +26,11 @@ layout: no-section
 ### I use Dolphin. My photos or Miis sometimes become black. What can I do?
  - Within Dolphin's graphics settings, disable the setting "Store XFB Copies to Texture Only".
 
+## Digicam is telling me that my selected image is not supported.
+ - Digicam only supports "baseline" (not "progressive", or "interlaced") JPEGs. Here are some tips to make your photo compatible:
+   - Using Photoshop:
+     - Go to File > Export > Save for Web (Legacy)
+     - Change the format to JPEG. Make sure to uncheck 'Progressive' and 'Optimized'.
+   - Using Paint.NET:
+     - Simply save your image as a JPEG. Paint.NET does not support progressive JPEGs.
 </div>
