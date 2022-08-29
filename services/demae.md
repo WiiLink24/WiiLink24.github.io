@@ -19,7 +19,7 @@ layout: no-section
 ## {{ site.info }}
 ### What do I do if I get error -1017 when installing?
  - This is a known issue with the patcher!
- - In the meantime, you will find a file titled `Demae.wad` on the root of your SD card. Use your favorite WAD maanger to install!
+ - In the meantime, you will find a file titled `Demae.wad` on the root of your SD card. Use your favorite WAD manager to install!
 
 ### What do I do if I get error -1022 when installing?
  - Using your favorite WAD manager, uninstall the Demae channel, and install again. For many, this means going to the location the Demae WAD is located, and pressing the `-` (minus) button on your Wii remote.
