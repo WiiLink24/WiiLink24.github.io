@@ -17,6 +17,13 @@ layout: no-section
  - Secure.
 
 ## {{ site.info }}
+### What do I do if I get error -1017 when installing?
+ - This is a known issue with the patcher!
+ - In the meantime, you will find a file titled `Demae.wad` on the root of your SD card. Use your favorite WAD maanger to install!
+
+### What do I do if I get error -1022 when installing?
+ - Using your favorite WAD manager, uninstall the Demae channel, and install again. For many, this means going to the location the Demae WAD is located, and pressing the `-` (minus) button on your Wii remote.
+
 ### Will the Demae Channel order real food?
  - Yes! Some current information:
    - Support has been developed for Domino's in Canada, and Deliveroo in Europe.
@@ -24,7 +31,7 @@ layout: no-section
  - If this ever changes throughout development, we will **always** have fake ordering, with restaurants curated from our team!
 
 ### When Demae Channel releases, how will I pay for food?
- - The Demae Channel only supports <b>pay-on-delivery</b>, where you will have to pay in either cash or card, to the delivery driver. You cannot input your card details into the Demae Channel or Set Personal Data in any way.
+ - The Demae Channel only supports **pay-on-delivery**, where you will have to pay in either cash or card, to the delivery driver. You cannot input your card details into the Demae Channel or Set Personal Data in any way.
 
 ### Does WiiLink save my address when using Demae Channel?
  - No, we cannot see your address. The only time we ever receive it is when you place an order, where it is sent straight to the provider (e.g. Dominos), not us.
