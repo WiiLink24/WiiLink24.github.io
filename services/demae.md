@@ -24,6 +24,9 @@ layout: no-section
 ### What do I do if I get error -1022 when installing?
  - Using your favorite WAD manager, uninstall the Demae channel, and install again. For many, this means going to the location the Demae WAD is located, and pressing the `-` (minus) button on your Wii remote.
 
+### I'm getting an error message when adding food to my basket.
+ - Please try erasing save data for the Demae Channel, and setting it up again! Let us know in #demae-support if you continue to experience issues.
+
 ### Will the Demae Channel order real food?
  - Yes! Some current information:
    - Support has been developed for Domino's in Canada, and Deliveroo in Europe.
