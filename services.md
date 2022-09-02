@@ -27,8 +27,8 @@ Services core to WiiLink, originally only available within Japan.
         <td class="publicly-available">Full Release</td>
     </tr>
     <tr>
-        <td> <a href="/services/demae">Demae Channel</a> </td>
-        <td class="private-beta">Closed Beta</td>
+        <td> <a href="/services/demae">Food Channel</a> </td>
+        <td class="publicly-available">Public Beta</td>
     </tr>
     <tr>
         <td> <a href="/services/tv-helper">TV no Tomo Channel</a> </td>
