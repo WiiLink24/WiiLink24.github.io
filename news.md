@@ -18,10 +18,14 @@ layout: news-post
 
 The following is an example of a news post's content:
 
-## Title
-Content
+  Introduction
 
-&mdash; Name
+  ### Subheading
+  Content
+  ### Subheading
+  Content
+
+  &mdash; Author Name
 -->
 
 {% comment %}
@@ -30,9 +34,10 @@ Content
 {% for post in site.posts limit: 3 %}
   <h1>
     <a href="{{ post.url }}">
-      {{ post.title }} - {{ post.date | date: "%B %-d, %Y" }}
+      {{ post.title }}
     </a>
   </h1>
+  <h3>{% include news-post-index.html post=post %}</h3>
 
   {{ post.content }}
 {% endfor %}
@@ -45,9 +50,10 @@ Content
 {% for post in site.posts offset: 3 %}
   <h2>
     <a href="{{ post.url }}">
-      {{ post.title }} - {{ post.date | date: "%B %-d, %Y" }}
+      {{ post.title }}
     </a>
   </h2>
+  <h3>{% include news-post-index.html post=post %}</h3>
 
   {{ post.content | strip_html | truncatewords: 50 }}
 {% endfor %}

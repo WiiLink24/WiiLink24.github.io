@@ -1,0 +1,23 @@
+{% comment %}
+  By default, we'll assume we haven't found the index.
+{% endcomment %}
+{% assign page_index = 'Unknown' %}
+
+{%- for possible_post in site.posts -%}
+  {%- if possible_post.title == post.title -%}
+    {%- assign page_index = forloop.rindex -%}
+    {%- break -%}
+  {%- endif -%}
+{%- endfor -%}
+
+
+{% comment %}
+  If we found an index, zero pad it, if necessary.
+
+  Thank you to https://stackoverflow.com/a/37453646 for this solution!
+{% endcomment %}
+{%- if page_index != 'Unknown' -%}
+  {%- assign page_index = page_index | prepend: '00' | slice: -2, 2 -%}
+{%- endif -%}
+
+Issue {{ page_index }} - {{ post.date | date: "%B %-d, %Y" }}
