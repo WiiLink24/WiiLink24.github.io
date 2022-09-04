@@ -12,6 +12,10 @@ kramdown:
   auto_ids: true
   parse_block_html: true
 
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
 # Commonly used links throughout the site.
 # Reference as {{ site.github }}.
 discord: https://discord.gg/reqUMqxu8D
