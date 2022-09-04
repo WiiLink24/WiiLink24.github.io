@@ -3,7 +3,9 @@ title: News
 icon: newspaper-variant
 description: Catch up with the latest WiiLink news.
 ---
-
+<div class="center">
+  <a href="/feed.xml"><i class="mdi mdi-rss-box"></i> RSS</a>
+</div>
 <br>
 
 <!--
