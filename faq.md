@@ -1,6 +1,7 @@
 ---
 title: FAQ
 icon: help-circle
+description: Frequently asked questions about our service.
 ---
 
 <!-- Special styling to permit readability. -->
@@ -19,6 +20,8 @@ h3, ul {
 </style>
 
 {% include table-of-contents.html %}
+
+<br>
 
 <div class="title-pair">
 # WiiLink

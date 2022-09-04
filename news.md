@@ -1,7 +1,10 @@
 ---
 title: News
 icon: newspaper-variant
+description: Catch up with the latest WiiLink news.
 ---
+
+<br>
 
 <!-- Example layout of a news post
 
