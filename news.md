@@ -97,6 +97,8 @@ And thats all for now! I really hope you enjoyed this and are excited for the Wi
 
 ---
 
+{{ site.oldnews }}
+
 ## Issue 09 - January 3rd, 2022
 
 ### Happy New Year
@@ -109,7 +111,7 @@ As of now, contributing to the project is a pretty daunting task. There are no d
 
 #### Status of Channels
 
-The last release of a channel was in May of last year! As I did postpone the release of v1025 (Shopping) final due to personal issues, some of you have been asking the ETA on that. I do not have a concrete release date yet, but hopefully it is in the next few months. 
+The last release of a channel was in May of last year! As I did postpone the release of v1025 (Shopping) final due to personal issues, some of you have been asking the ETA on that. I do not have a concrete release date yet, but hopefully it is in the next few months.
 
 v770 (Theatre) is still in development! Most of its bugs have been worked out and all that is really left is purchasing and translations. Again, no ETA.
 
@@ -130,6 +132,8 @@ WiiLink's public services will always be free. The patreon tier allows only for 
 &mdash; oscie
 
 ---
+
+{{ site.oldnews }}
 
 ## Issue 08 - December 5th, 2021
 
@@ -166,6 +170,8 @@ Thank you for reading this edition of WiiLink News, I hope you will enjoy this m
 &mdash; oscie
 
 ---
+
+{{ site.oldnews }}
 
 ## Issue 07 - November 23rd, 2021
 
@@ -211,6 +217,8 @@ On a final note, the release date for Wii Room v1025's full release is: `d2F0Y2g
 
 ---
 
+{{ site.oldnews }}
+
 ## Issue 06 - May 15th, 2021
 
 ### Digicam. Full. Public. Release
@@ -235,6 +243,8 @@ Please note delivery and payment in Digicam do not work, and we are not liable i
 &mdash; oscie
 
 ---
+
+{{ site.oldnews }}
 
 ## Issue 05 - May 1st, 2021
 
@@ -262,6 +272,8 @@ Thank you for reading the summary of the update, have fun in Beta v3!
 
 ---
 
+{{ site.oldnews }}
+
 ## Issue 04 - April 1st, 2021
 
 ### An update to yesterday's update
@@ -273,6 +285,8 @@ We are all genuinely sorry for this and, as you can see, are now working on it. 
 &mdash; oscie
 
 ---
+
+{{ site.oldnews }}
 
 ## Issue 03 - March 31st, 2021
 
@@ -288,9 +302,11 @@ Thanks for reading my first news update, it's been a while since one so I hope t
 
 ---
 
+{{ site.oldnews }}
+
 ## Issue 02 - December 14th, 2020
 
-### We're back with more news today! Here's the latest on everything WiiLink24:
+### We're back with more news today! Here's the latest on everything WiiLink24
 
 - The site has gotten a bit of a makeover! Rather than have one page for everything, there are now individual pages for the services. This way, we can have screenshots and more detailed info about each service.
 - The Public Beta is OUT! Wii Room is now available to all in the form of a beta. This means that not everything is present as of now but we'll add more features in the future. To get it, check out the Guide!
@@ -301,6 +317,8 @@ Thanks for reading, see you next time for another news report!
 &mdash; Mint
 
 ---
+
+{{ site.oldnews }}
 
 ## Issue 01 - December 3rd, 2020
 
