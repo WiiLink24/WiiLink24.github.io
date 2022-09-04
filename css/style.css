@@ -369,4 +369,8 @@ th {
     .navbar a {
         float: left;
     }
+
+    img {
+        width: 100%;
+    }
 }
