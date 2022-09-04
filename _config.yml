@@ -24,3 +24,4 @@ youtube: https://www.youtube.com/wiilink
 
 # Special case to avoid duplication.
 info: <i class="mdi mdi-help-circle"></i> FAQ
+oldnews: <i class="mdi mdi-alert-circle"></i> Old News (May be outdated)
