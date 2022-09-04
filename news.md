@@ -44,6 +44,8 @@ The following is an example of a news post's content:
 
 
 # Older Posts
+{{ site.oldnews }}
+
 {% comment %}
   Posts beyond the 3 most recent will only be linked to.
 {% endcomment %}
