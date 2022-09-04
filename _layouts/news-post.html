@@ -1,0 +1,19 @@
+---
+layout: no-section
+---
+
+<div class="section">
+  <h1>{{ page.title }}</h1>
+  <h2>Posted {{ page.date | date: "%B %-d, %Y" }}</h2>
+  {% if page.old_news %}
+    {{ site.oldnews }}
+  {% endif %}
+
+  {{ content }}
+
+  <div class="center">
+    <a href="/news">
+      <i class="mdi mdi-newspaper-variant"></i> Read the latest news
+    </a>
+  </div>
+</div>
