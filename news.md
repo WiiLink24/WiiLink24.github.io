@@ -42,8 +42,8 @@ The following is an example of a news post's content:
   {{ post.content }}
 {% endfor %}
 
-
 # Older Posts
+
 {{ site.oldnews }}
 
 {% comment %}
