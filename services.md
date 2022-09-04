@@ -8,6 +8,7 @@ description: These are the services that we (either now or in the future) mainta
 <div class="center">
 
 ## Core Services
+
 Services core to WiiLink, originally only available within Japan.
 <table>
     <tr>
@@ -27,7 +28,7 @@ Services core to WiiLink, originally only available within Japan.
         <td class="publicly-available">Full Release</td>
     </tr>
     <tr>
-        <td> <a href="/services/demae">Food Channel</a> </td>
+        <td> <a href="/services/food">Food Channel</a> </td>
         <td class="publicly-available">Public Beta</td>
     </tr>
     <tr>
@@ -37,6 +38,7 @@ Services core to WiiLink, originally only available within Japan.
 </table>
 
 ## WiiConnect24 Channels
+
 Functionality provided by WiiConnect24, revived by WiiLink.
 
 <table>
@@ -59,6 +61,7 @@ Functionality provided by WiiConnect24, revived by WiiLink.
 </table>
 
 ## Video Streaming Services
+
 A myriad of services for you to best enjoy video within.
 
 <table>

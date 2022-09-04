@@ -27,21 +27,26 @@ info: <i class="mdi mdi-help-circle"></i>
 # {{ page.info }} Quick FAQ
 
 ## Why WiiLink?
- - WiiLink is the only service to bring back Japanese exclusive Wii channels after they were officially shut down. We've made [Wii no Ma](/services/wii-room) and [Digicam Print Channel](/services/digicam) functional once more, and we're hard at work on the [Demae Channel](/services/demae). With our service, you can experience all of these once more on your Nintendo Wii - possibly for the first time.
+
+- WiiLink is the only service to bring back Japanese exclusive Wii channels after they were officially shut down. We've made [Wii no Ma](/services/wii-room) and [Digicam Print Channel](/services/digicam) functional once more, and we're hard at work on the [Demae Channel](/services/demae). With our service, you can experience all of these once more on your Nintendo Wii - possibly for the first time.
 
 ## Why does WiiLink exist?
- - Without a replacement service for these Japanese channels, they would be lost to time, never to be seen again. However, thanks to our work, future generations of players can experience these channels again!
+
+- Without a replacement service for these Japanese channels, they would be lost to time, never to be seen again. However, thanks to our work, future generations of players can experience these channels again!
 
 ## Is using WiiLink legal?
- - Absolutely. We develop all of our channels without copyrighted code and material, and rely solely on what is provided within the channel and public knowledge. All code is written from the ground up. You will have no legal trouble from using our service.
+
+- Absolutely. We develop all of our channels without copyrighted code and material, and rely solely on what is provided within the channel and public knowledge. All code is written from the ground up. You will have no legal trouble from using our service.
 
 ## Will the Demae Channel order real food?
- - Yes!
+
+- Yes!
 
 <div class="center">
 ### Have further questions? Read our full [{{ site.info }}](/faq)!
 
 # <i class="mdi mdi-movie-open"></i> Promotional Video
+
 <div class="embed">
 <iframe src="https://www.youtube.com/embed/Y8gSqBd4oT0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="WiiLink: Japan Is Coming to You" allowfullscreen></iframe>
 </div>

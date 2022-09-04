@@ -7,7 +7,10 @@ body {
 }
 
 /* Do not apply line height to headers. */
-h1, h2, h3, h4 {
+h1,
+h2,
+h3,
+h4 {
     line-height: 1em;
 }
 
@@ -31,7 +34,7 @@ h1, h2, h3, h4 {
 }
 
 .mobile-bars {
-  display: none;
+    display: none;
 }
 
 .center {
@@ -40,44 +43,44 @@ h1, h2, h3, h4 {
 
 /* Ensure that the navbar as a whole stays on screen. */
 .page-header {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  align-items: center;
-  overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    overflow: hidden;
 }
 
 .nav-logo {
-  float: left;
-  margin: auto;
+    float: left;
+    margin: auto;
 }
 
 .page-header nav {
-  float: right;
+    float: right;
 }
 
 .page-header ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
 }
 
 .page-header li {
-  float: left;
-  list-style-type: none;
+    float: left;
+    list-style-type: none;
 }
 
 .page-header li a {
-  display: block;
-  text-align: center;
-  padding: 10px 10px;
-  text-decoration: none;
-  color: inherit;
+    display: block;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+    color: inherit;
 }
 
 .page-header li a:hover {
-  border-radius: 12px;
+    border-radius: 12px;
 }
 
 li {
@@ -144,7 +147,9 @@ li {
     padding: 30px;
 }
 
-.header h1, .header h2, .header ul {
+.header h1,
+.header h2,
+.header ul {
     margin-left: 20%;
     margin-right: 20%;
 }
@@ -203,7 +208,10 @@ li {
     padding-bottom: 3px;
 }
 
-.faq h1, .faq p, .faq li, .faq h2 {
+.faq h1,
+.faq p,
+.faq li,
+.faq h2 {
     margin-left: 20%;
     margin-right: 20%;
 }
@@ -225,8 +233,9 @@ li {
     font-size: 24px;
     margin-left: 20%;
 }
-  
-.section td, th {
+
+.section td,
+th {
     text-align: left;
     padding: 15px;
     border: 3px solid #000;
@@ -265,17 +274,28 @@ li {
         background-image: none;
     }
 
-    .header h1, .header h3, .header ul {
+    .header h1,
+    .header h3,
+    .header ul {
         margin-left: 3%;
         margin-right: 3%;
     }
 
-    .section h1, .section p, .section li, .section h2, .section h3, .section h4, .section h5 {
+    .section h1,
+    .section p,
+    .section li,
+    .section h2,
+    .section h3,
+    .section h4,
+    .section h5 {
         margin-left: 3%;
         margin-right: 3%;
     }
 
-    .faq h1, .faq p, .faq li, .faq h2 {
+    .faq h1,
+    .faq p,
+    .faq li,
+    .faq h2 {
         margin-left: 3%;
         margin-right: 3%;
     }
@@ -287,7 +307,7 @@ li {
 
     .section {
         margin-left: 0;
-        margin-right: 0;    
+        margin-right: 0;
     }
 }
 
@@ -303,11 +323,11 @@ li {
     .item {
         width: auto;
     }
-    
+
     .header-logo {
         font-size: 1.5em;
     }
-    
+
     .header-logo img {
         width: 100%;
     }
@@ -320,7 +340,7 @@ li {
         margin-left: auto;
         margin-right: auto;
     }
-        
+
     .navbar a {
         display: none;
     }
