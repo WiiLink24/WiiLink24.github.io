@@ -74,7 +74,7 @@ A myriad of services for you to best enjoy video within.
         <td class="publicly-available">Public Beta</td>
     </tr>
     <tr>
-        <td> <a href="/services/s/mprime">Metroid Prime Preview Channel</a> </td>
+        <td> <a href="#">Metroid Prime Preview Channel</a> </td>
         <td class="in-development">Planned</td>
     </tr>
     <tr>
