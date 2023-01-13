@@ -19,7 +19,7 @@ info: <i class="mdi mdi-help-circle"></i>
       <li>Watch new videos with <b>Wii Room</b>, a unique take on video on-demand.</li>
       <li>Create perfect prints with the <b>Digicam Print Channel</b> and design photo albums in a way only you do best.</li>
       <li>Watch the original Kirby anime right from your Wii with the <b>Kirby TV Channel</b>.</li>
-      <li><span class="coming-soon">Coming soon</span> Order food with the <b>Demae Channel</b> and bring tasty goodness straight to your house.</li>
+      <li>Order food with the <b>Demae Channel</b> and bring tasty goodness straight to your house.</li>
   </ul>
 </div>
 
@@ -38,7 +38,7 @@ info: <i class="mdi mdi-help-circle"></i>
 
 - Absolutely. We develop all of our channels without copyrighted code and material, and rely solely on what is provided within the channel and public knowledge. All code is written from the ground up. You will have no legal trouble from using our service.
 
-## Will the Demae Channel order real food?
+## Does the Demae Channel order real food?
 
 - Yes!
 
