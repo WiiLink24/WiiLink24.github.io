@@ -31,13 +31,14 @@ h3, ul {
 ### Why WiiLink?
 
 - WiiLink is the only service to bring back Japanese exclusive Wii channels after they were officially shut down.
-  - We've made [Wii no Ma](/services/wii-room) and the [Digicam Print Channel](/services/digicam) functional once more.
-  - We're hard at work on the [Demae Channel](/services/demae), letting you order food directly from your Wii.
+  - We've made [Wii no Ma](/services/wii-room), the [Digicam Print Channel](/services/digicam), and the [Demae Channel](/services/demae) functional once more.
+  - We're hard at work on the [Forecast Channel](/services/w/forecast), letting you check the weather directly from your Wii.
+  - We've even brought back the [Nintendo Channel](/services/w/nintendo), allowing you to watch videos and play demos of DS games.
 - With our service, you can experience all of these once more on your Nintendo Wii - possibly for the first time.
 
 ### Why does WiiLink exist?
 
-- Without a replacement service for these Japanese and Streaming channels, they would be lost to time, never to be seen again. However, thanks to our work, future generations of players can experience these channels again!
+- Without a replacement service for these channels, they would be lost to time, never to be seen again. However, thanks to our work, future generations of players can experience these channels again!
 
 ### Is using WiiLink legal?
 
@@ -55,7 +56,7 @@ h3, ul {
   - The best time for real-time support is within our [Discord server]({{ site.discord }}), where an active community exists.
   - You can also contact us via our [Twitter](https://twitter.com/wiilink24) account!
 
-### Will the Demae Channel order real food?
+### Does the Demae Channel order real food?
 
 - Yes! Some current information:
   - Support has been developed for Domino's in Canada, and Deliveroo in Europe.
@@ -66,6 +67,7 @@ h3, ul {
 
 - You'll want to check out our [instructions on wii.guide]({{ site.guide }}) for simple, easy to follow instructions to get everything installed.
 - For video streaming channels from Striim Network, see their [installation guide]({{ site.guide_striim }})!
+- For Demae Dominos, see the [installation guide](https://wii.guide/wiilink-demae-dominos)
 
 ### How do I update a WiiLink channel?
 
@@ -88,7 +90,7 @@ h3, ul {
 
 ### Is your service a replacement for services such as RiiConnect24?
 
-- No! This service is designed to be a companion to RiiConnect24, providing exclusive Japanese and streaming services, though some channels will be able to replace them (such as Mii Contest Channel and Everybody Votes Channel)
+- No! This service is designed to be a companion to RiiConnect24, providing exclusive Japanese and streaming services, though some channels will be able to replace them (such as the Nintendo Channel and Forecast Channel)
 
 ### Why is WiiLink developing WiiConnect24?
 
