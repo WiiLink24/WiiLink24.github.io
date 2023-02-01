@@ -56,6 +56,10 @@ Functionality provided by WiiConnect24, revived by WiiLink.
     </tr>
     <tr>
         <td> <a href="/services/w/nintendo">Nintendo Channel</a> </td>
+        <td class="publicly-available">Full Release</td>
+    </tr>
+        <tr>
+        <td> <a href="/services/w/forecast">Forecast Channel</a> </td>
         <td class="in-development">In Development</td>
     </tr>
 </table>
