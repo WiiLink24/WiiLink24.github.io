@@ -33,7 +33,7 @@ Services core to WiiLink, originally only available within Japan.
     </tr>
     <tr>
         <td> <a href="/services/tv-helper">TV no Tomo Channel</a> </td>
-        <td class="in-development">In Development</td>
+        <td class="private-beta">Private Beta</td>
     </tr>
 </table>
 
@@ -46,16 +46,16 @@ Functionality provided by WiiConnect24, revived by WiiLink.
         <th>Service</th>
         <th>Status</th>
     </tr>
-        <tr>
+    <tr>
+        <td> <a href="/services/w/nintendo">Nintendo Channel</a> </td>
+        <td class="publicly-available">Full Release</td>
+    </tr>
+    <tr>
         <td> <a href="/services/w/contest">Mii Contest Channel</a> </td>
         <td class="in-development">In Development</td>
     </tr>
     <tr>
         <td> <a href="/services/w/politics">Everybody Votes Channel</a> </td>
-        <td class="in-development">In Development</td>
-    </tr>
-    <tr>
-        <td> <a href="/services/w/nintendo">Nintendo Channel</a> </td>
         <td class="in-development">In Development</td>
     </tr>
 </table>
@@ -75,7 +75,7 @@ A myriad of services for you to best enjoy video within.
     </tr>
     <tr>
         <td> <a href="#">Metroid Prime Preview Channel</a> </td>
-        <td class="in-development">Planned</td>
+        <td class="in-development">In Development</td>
     </tr>
     <tr>
         <td> <a href="/services/s/theatre">Minna no Theatre Wii</a> </td>
