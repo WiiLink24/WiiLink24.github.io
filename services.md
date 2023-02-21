@@ -51,12 +51,24 @@ Functionality provided by WiiConnect24, revived by WiiLink.
         <td class="publicly-available">Full Release</td>
     </tr>
     <tr>
+        <td> <a href="/services/w/forecast">Forecast Channel</a> </td>
+        <td class="publicly-available">Full Release</td>
+    </tr>
+    <tr>
+        <td> <a href="/services/w/news">News Channel</a> </td>
+        <td class="in-development">In Development</td>
+    </tr>
+    <tr>
         <td> <a href="/services/w/contest">Mii Contest Channel</a> </td>
         <td class="in-development">In Development</td>
     </tr>
     <tr>
         <td> <a href="/services/w/politics">Everybody Votes Channel</a> </td>
         <td class="in-development">In Development</td>
+    </tr>
+    <tr>
+        <td> <a href="/services/w/mail">Wii Message Board</a> </td>
+        <td class="not-started">Not Started</td>
     </tr>
 </table>
 
