@@ -19,7 +19,7 @@ info: <i class="mdi mdi-help-circle"></i>
       <li>Watch new videos with <b>Wii Room</b>, a unique take on video on-demand.</li>
       <li>Create perfect prints with the <b>Digicam Print Channel</b> and design photo albums in a way only you do best.</li>
       <li>Watch the original Kirby anime right from your Wii with the <b>Kirby TV Channel</b>.</li>
-      <li><span class="coming-soon">Coming soon</span> Order food with the <b>Demae Channel</b> and bring tasty goodness straight to your house.</li>
+      <li>Order food with the <b>Demae Channel</b> and bring tasty goodness straight to your house.</li>
   </ul>
 </div>
 
@@ -28,17 +28,17 @@ info: <i class="mdi mdi-help-circle"></i>
 
 ## Why WiiLink?
 
-- WiiLink is the only service to bring back Japanese exclusive Wii channels after they were officially shut down. We've made [Wii no Ma](/services/wii-room) and [Digicam Print Channel](/services/digicam) functional once more, and we're hard at work on the [Demae Channel](/services/demae). With our service, you can experience all of these once more on your Nintendo Wii - possibly for the first time.
+- WiiLink is the only service to bring back Japanese exclusive Wii channels after they were officially shut down. We've made [Wii no Ma](/services/wii-room), the  [Demae Channel](/services/demae), and [Digicam Print Channel](/services/digicam) functional once more. With our service, you can experience all of these once more on your Nintendo Wii - possibly for the first time.
 
 ## Why does WiiLink exist?
 
-- Without a replacement service for these Japanese channels, they would be lost to time, never to be seen again. However, thanks to our work, future generations of players can experience these channels again!
+- Without a replacement service for these channels, they would be lost to time, never to be seen again. However, thanks to our work, future generations of players can experience these channels again!
 
 ## Is using WiiLink legal?
 
 - Absolutely. We develop all of our channels without copyrighted code and material, and rely solely on what is provided within the channel and public knowledge. All code is written from the ground up. You will have no legal trouble from using our service.
 
-## Will the Demae Channel order real food?
+## Can the Demae Channel order real food?
 
 - Yes!
 
